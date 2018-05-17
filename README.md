@@ -1,4 +1,4 @@
-# Hot to add Stencil components:
+# How to add your stencil components:
 - Publish your stencil component as an npm module.
 - Install it in your angular cli project with **npm i [component_name]**
 - Add main entry file of your component to **scripts** section of angular.json. For example:
