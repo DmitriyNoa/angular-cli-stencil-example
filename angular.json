@@ -24,12 +24,16 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              { "glob": "**/*", "input": "./node_modules/z-product-card/dist/zlib", "output": "./zlib" },
+              { "glob": "**/*", "input": "./node_modules/z-product-card/dist/collection/assets", "output": "./assets" }
             ],
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/z-product-card/dist/zlib.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -78,7 +82,8 @@
             "styles": [
               "styles.scss"
             ],
-            "scripts": [],
+            "scripts": [
+            ],
             "assets": [
               "src/favicon.ico",
               "src/assets"
