@@ -6,7 +6,6 @@ import { products } from '../mocks/products'
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app';
   public products: any = products;
   public likedProducts: any = [];
 

@@ -1,16 +1,61 @@
 export const products: any = [
   {
-    name: "Langarmshirt - black/legion green/reflective silver",
-    image: "https://mosaic01.ztat.net/vgs/media/catalog-sm/TP/72/1D/0D/FJ/11/TP721D0DF-J11@10.jpg",
-    brand: "Nike Performance",
+    name: "RICMANN - Business-Schnürer - cognac",
+    image: "https://mosaic02.ztat.net/vgs/media/catalog-lg/A0/11/2A/02/QO/11/A0112A02Q-O11@12.jpg",
+    brand: "Aldo",
     price: {
-      old: "€19,99",
-      current: "€12,49"
+      old: "€119,99",
+      current: "€112,49"
+    }
+  },
+  {
+    name: "LOVERICIA - Sneaker low - cognac",
+    image: "https://mosaic02.ztat.net/vgs/media/catalog-lg/A0/11/2O/00/BO/11/A0112O00B-O11@12.jpg",
+    brand: "Aldo",
+    price: {
+      old: "€129,99",
+      current: "€122,49"
     }
   },
   {
     name: "Langarmshirt - black/legion green/reflective orange",
-    image: "https://mosaic01.ztat.net/vgs/media/catalog-sm/TP/72/1D/0D/FJ/11/TP721D0DF-J11@10.jpg",
+    image: "https://mosaic02.ztat.net/vgs/media/catalog-lg/A0/11/2O/00/AK/11/A0112O00A-K11@12.jpg",
+    brand: "Nike Performance",
+    price: {
+      old: "€129,99",
+      current: "€122,49"
+    }
+  },
+  {
+    name: "Langarmshirt - black/legion green/reflective orange",
+    image: "https://mosaic02.ztat.net/vgs/media/catalog-lg/A0/11/2O/00/AK/11/A0112O00A-K11@12.jpg",
+    brand: "Nike Performance",
+    price: {
+      old: "€129,99",
+      current: "€122,49"
+    }
+  },
+  {
+    name: "Langarmshirt - black/legion green/reflective orange",
+    image: "https://mosaic02.ztat.net/vgs/media/catalog-lg/A0/11/2O/00/AK/11/A0112O00A-K11@12.jpg",
+    brand: "Nike Performance",
+    price: {
+      old: "€129,99",
+      current: "€122,49"
+    }
+  },
+  {
+    name: "Langarmshirt - black/legion green/reflective orange",
+    image: "https://mosaic02.ztat.net/vgs/media/catalog-lg/A0/11/2O/00/AK/11/A0112O00A-K11@12.jpg",
+    brand: "Nike Performance",
+    price: {
+      old: "€129,99",
+      current: "€122,49"
+    }
+  },
+  {
+    name: "Langarmshirt - black/legion green/reflective orange",
+    image: "https://mosaic02.ztat.net/vgs/media/catalog-lg/A0/11/2O/00/AK/11/A0112O00A-K11@12.jpg",
     brand: "Nike Performance",
     price: {
       old: "€129,99",
